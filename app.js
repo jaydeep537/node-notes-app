@@ -58,5 +58,4 @@ yargs.command({
     notes.listNotes();
   },
 });
-
 yargs.parse();
